@@ -1,0 +1,42 @@
+◇ injected env (3) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+books=5 chapters=42 already-done=7 pending=35 per-chapter=3
+[09:26:40] chemistry-9 :: Matter (definition) ... stored=3/3 dup=0 rejected=0 188.9s
+[09:29:51] mathematics-9 :: Logarithms (identify) ... stored=3/3 dup=0 rejected=0 115.6s
+[09:31:50] chemistry-9 :: Atomic Structure (recall) ... stored=3/3 dup=0 rejected=0 53.3s
+[09:32:45] mathematics-9 :: Sets and Relations (terminology) ... stored=3/3 dup=0 rejected=0 40.9s
+[09:33:29] biology-9 :: Cell Cycle (why) ... stored=0/0 dup=0 rejected=1 453.3s
+    reject: timeout OpenCode Zen (space-bunny-free) timed out after 300s
+[09:41:05] chemistry-9 :: Periodic Table and Periodicity of Properti (explain) ... stored=0/0 dup=0 rejected=1 494.5s
+    reject: timeout OpenCode Zen (space-bunny-free) timed out after 300s
+[09:49:22] mathematics-9 :: Factorization and Algebraic Manipulation (compare) ... stored=3/3 dup=0 rejected=0 426.8s
+[09:56:31] biology-9 :: Tissues, Organ and Organ Systems (distinguish) ... stored=3/3 dup=0 rejected=0 133.1s
+[09:58:47] chemistry-9 :: Chemical Bonding (relationship) ... stored=3/3 dup=0 rejected=0 190.1s
+[10:01:59] mathematics-9 :: Linear Equations and | Inequalities (scenario) ... stored=3/3 dup=0 rejected=0 135.2s
+[10:04:17] biology-9 :: Molecular Biology (experiment) ... stored=3/3 dup=0 rejected=0 103.1s
+[10:06:03] chemistry-9 :: Stoichiometery (prediction) ... stored=3/3 dup=0 rejected=0 98.9s
+[10:07:44] mathematics-9 :: Trigonometry and Bearing (interpretation) ... stored=3/3 dup=0 rejected=0 247.9s
+[10:11:54] biology-9 :: Metabolism (direct-calculation) ... stored=3/3 dup=0 rejected=0 351.5s
+[10:17:48] chemistry-9 :: Electrochemistry (reverse-calculation) ... stored=3/3 dup=0 rejected=0 120.5s
+[10:19:51] mathematics-9 :: Coordinate Geometry (missing-value) ... stored=0/0 dup=0 rejected=1 403.9s
+    reject: timeout OpenCode Zen (space-bunny-free) timed out after 300s
+[10:26:38] biology-9 :: Plant Physiology (multi-step) ... stored=3/3 dup=0 rejected=0 406.1s
+[10:33:26] chemistry-9 :: Energetics (word-problem) ... stored=0/0 dup=0 rejected=1 257.9s
+    reject: unavailable OpenCode Zen request failed (HTTP 500)
+[10:37:47] mathematics-9 :: Geometry of Straight Lines (mcq-standard) ... stored=3/3 dup=0 rejected=0 159.0s
+[10:40:28] biology-9 :: Plant Reproduction (mcq-not) ... stored=3/3 dup=0 rejected=0 93.8s
+[10:42:05] chemistry-9 :: Chemical Equilibrium (mcq-best-explanation) ... stored=3/3 dup=0 rejected=0 139.7s
+[10:44:27] mathematics-9 :: Geometry and Polygons (mcq-most-likely) ... stored=0/0 dup=0 rejected=1 97.6s
+    reject: malformed-json Model did not return parseable JSON
+[10:46:07] biology-9 :: Evolution (mcq-sequence) ... stored=3/3 dup=0 rejected=0 126.9s
+[10:48:16] chemistry-9 :: Acids, Bases, and Salts (mcq-classification) ... stored=3/3 dup=0 rejected=0 121.7s
+[10:50:21] mathematics-9 :: 0 Practical Geometry (mcq-comparison) ... stored=0/0 dup=0 rejected=1 446.3s
+    reject: timeout OpenCode Zen (space-bunny-free) timed out after 300s
+[10:57:50] chemistry-9 :: Environmental Chemistry-Air (mcq-assertion-reason) ... stored=3/3 dup=0 rejected=0 284.8s
+[11:02:37] mathematics-9 :: Basic Statistics (mcq-common-mistake) ... stored=3/3 dup=0 rejected=0 111.0s
+[11:04:30] chemistry-9 :: Environmental Chemistry-Water (mcq-data-interpretation) ... stored=3/3 dup=0 rejected=0 205.7s
+[11:07:58] chemistry-9 :: Organic Chemistry (definition) ... stored=3/3 dup=0 rejected=0 95.4s
+[11:09:36] chemistry-9 :: Hydrocarbons (identify) ... stored=3/3 dup=0 rejected=0 61.7s
+[11:10:41] chemistry-9 :: Biochemistry (recall) ... stored=3/3 dup=0 rejected=0 134.1s
+[11:12:57] chemistry-9 :: Empirical Data Collection and Analysis (terminology) ... stored=3/3 dup=0 rejected=0 22.5s
+[11:13:22] chemistry-9 :: Separation Techniques (why) ... stored=3/3 dup=0 rejected=0 111.7s
+[11:15:16] chemistry-9 :: Qualitative Analysis (explain) ... 

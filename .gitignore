@@ -1,0 +1,62 @@
+# Secrets - never commit these
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log*
+.npm/
+
+# Build output
+dist/
+
+# OCR output and generated data.
+# These are derived from books/*.pdf and are large; regenerate with
+#   npm run ingest-books
+# (--restructure reuses the page text if you only need to retune parsing)
+data/extracted/
+data/indexes/
+data/books.json
+data/ingest-state.json
+data/questions/
+data/progress-seed.json
+
+# Derived from the textbook: the curated chapter/topic map, its page numbers
+# and its OCR search phrases. Kept out of a public repository on purpose. If you
+# want the curated structure preserved in git, un-ignore just this file - it is
+# ~18 kB of headings and page numbers, not textbook text.
+data/topic-maps/
+
+# Scratch files left behind by the PDF/OCR tools
+*.tmp
+data/_structblock.tmp
+
+# Personal study data: the student's profile, every recorded MCQ attempt, and
+# the saved chat conversations. These are the student's own record, not code.
+data/student/
+data/chat/
+
+# The real textbooks must never be committed or published
+books/
+probe-ocr-dump/
+*.pdf
+
+# Probe scratch files produced by scripts/probe-*.ts
+probe-*.txt
+probe-*.json
+ocr-p*.png
+page-*.png
+*.log
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Playwright / test output
+test-results/
+playwright-report/
+coverage/

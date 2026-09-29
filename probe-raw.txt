@@ -1,0 +1,636 @@
+﻿done Biology-9.pdf -> 0 chars/page, 168 pages
+done Chemistry-9.pdf -> 55 chars/page, 258 pages
+done English-9.pdf -> 34 chars/page, 168 pages
+done Islamiat-9.pdf -> 31 chars/page, 116 pages
+node : Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+At line:1 char:1
++ node node_modules\tsx\dist\cli.mjs scripts\probe-pdf.ts 2>&1 | Out-Fi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning: Unknow...er is provided.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+done Mathematics-9.pdf -> 46 chars/page, 296 pages
+done Mutalia Quran-9.pdf -> 0 chars/page, 257 pages
+done Physics-9.pdf -> 31 chars/page, 221 pages
+done Urdu-9.pdf -> 34 chars/page, 130 pages
+
+=====PROBE=====
+[
+  {
+    "file": "Biology-9.pdf",
+    "sizeMB": 83.7,
+    "pages": 168,
+    "encrypted": false,
+    "pdfTitle": "9th Biology Federal Board.pdf",
+    "pdfAuthor": "",
+    "pdfCreator": null,
+    "pdfProducer": "Microsoft: Print To PDF",
+    "creationDate": "D:20251122181630+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 0,
+    "verdict": "SCANNED_NEEDS_OCR",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 31,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 46,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 61,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 76,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 92,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 107,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 122,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 137,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 152,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 168,
+        "chars": 0,
+        "preview": ""
+      }
+    ]
+  },
+  {
+    "file": "Chemistry-9.pdf",
+    "sizeMB": 73.8,
+    "pages": 258,
+    "encrypted": false,
+    "pdfTitle": null,
+    "pdfAuthor": null,
+    "pdfCreator": "PDF24",
+    "pdfProducer": "PDF24",
+    "creationDate": "D:20250420142450+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 55,
+    "verdict": "SPARSE",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 24,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 47,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 71,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 94,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 117,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 141,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 164,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 187,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 211,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 234,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      },
+      {
+        "page": 258,
+        "chars": 55,
+        "preview": "studyplusplus.com (study++) studyplusplus.com (study++)"
+      }
+    ]
+  },
+  {
+    "file": "English-9.pdf",
+    "sizeMB": 35,
+    "pages": 168,
+    "encrypted": false,
+    "pdfTitle": "F:\\books\\federal-board\\9th\\2024-06-03 9_english\\9_english 001.tif-Page1",
+    "pdfAuthor": "",
+    "pdfCreator": null,
+    "pdfProducer": "iLovePDF",
+    "creationDate": "D:20240604111119+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 34,
+    "verdict": "SPARSE",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 16,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 31,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 46,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 61,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 76,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 92,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 107,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 122,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 137,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 152,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 168,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      }
+    ]
+  },
+  {
+    "file": "Islamiat-9.pdf",
+    "sizeMB": 16.6,
+    "pages": 116,
+    "encrypted": false,
+    "pdfTitle": "F:\\books\\federal-board\\9th\\2024-05-18 federal_islamiyat_9th_high_quality\\federal_islamiyat_9th_high_quality 001.tif-Page1",
+    "pdfAuthor": "",
+    "pdfCreator": null,
+    "pdfProducer": "GPL Ghostscript 10.02.1",
+    "creationDate": "D:20240521065936+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 31,
+    "verdict": "SPARSE",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 11,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 21,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 32,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 42,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 53,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 63,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 74,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 84,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 95,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 105,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 116,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      }
+    ]
+  },
+  {
+    "file": "Mathematics-9.pdf",
+    "sizeMB": 72.9,
+    "pages": 296,
+    "encrypted": false,
+    "pdfTitle": "CamScanner 10-08-2024 22.22",
+    "pdfAuthor": "CamScanner",
+    "pdfCreator": null,
+    "pdfProducer": "intsig.com pdf producer",
+    "creationDate": null,
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 46,
+    "verdict": "SPARSE",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 33,
+        "preview": "https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 27,
+        "chars": 33,
+        "preview": "https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 54,
+        "chars": 33,
+        "preview": "https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 81,
+        "chars": 33,
+        "preview": "https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 108,
+        "chars": 33,
+        "preview": "https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 135,
+        "chars": 58,
+        "preview": "FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 161,
+        "chars": 58,
+        "preview": "FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 188,
+        "chars": 58,
+        "preview": "FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 215,
+        "chars": 58,
+        "preview": "FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 242,
+        "chars": 58,
+        "preview": "FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 269,
+        "chars": 58,
+        "preview": "FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com"
+      },
+      {
+        "page": 296,
+        "chars": 33,
+        "preview": "https://fbisesolvedpastpapers.com"
+      }
+    ]
+  },
+  {
+    "file": "Mutalia Quran-9.pdf",
+    "sizeMB": 47.9,
+    "pages": 257,
+    "encrypted": false,
+    "pdfTitle": "",
+    "pdfAuthor": null,
+    "pdfCreator": "Adobe Acrobat 20.6",
+    "pdfProducer": "PDFsharp 1.32.2608-g (www.pdfsharp.net) (Original: Adobe Acrobat 20.6 Image Conversion Plug-in)",
+    "creationDate": "D:20250422210645+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 0,
+    "verdict": "SCANNED_NEEDS_OCR",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 24,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 47,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 70,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 94,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 117,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 140,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 163,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 187,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 210,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 233,
+        "chars": 0,
+        "preview": ""
+      },
+      {
+        "page": 257,
+        "chars": 0,
+        "preview": ""
+      }
+    ]
+  },
+  {
+    "file": "Physics-9.pdf",
+    "sizeMB": 71.4,
+    "pages": 221,
+    "encrypted": false,
+    "pdfTitle": null,
+    "pdfAuthor": null,
+    "pdfCreator": "PDF24",
+    "pdfProducer": "GPL Ghostscript 10.02.1",
+    "creationDate": "D:20240521070109+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 31,
+    "verdict": "SPARSE",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 21,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 41,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 61,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 81,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 101,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 121,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 141,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 161,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 181,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 201,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      },
+      {
+        "page": 221,
+        "chars": 31,
+        "preview": "studyplusplus || studyplulsplus"
+      }
+    ]
+  },
+  {
+    "file": "Urdu-9.pdf",
+    "sizeMB": 23.8,
+    "pages": 130,
+    "encrypted": false,
+    "pdfTitle": "F:\\books\\federal-board\\9th\\2024-06-04 9_urdu\\9_urdu 001.tif-Page1",
+    "pdfAuthor": "",
+    "pdfCreator": null,
+    "pdfProducer": "iLovePDF",
+    "creationDate": "D:20240604111221+05'00'",
+    "samplePages": 12,
+    "pagesWithText": 0,
+    "avgCharsPerPage": 34,
+    "verdict": "SPARSE",
+    "samples": [
+      {
+        "page": 1,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 12,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 24,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 36,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 47,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 59,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 71,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 83,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 94,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 106,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 118,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      },
+      {
+        "page": 130,
+        "chars": 34,
+        "preview": "studyplusplus || studyplusplus.com"
+      }
+    ]
+  }
+]

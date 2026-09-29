@@ -1,0 +1,82 @@
+[
+  {
+    "file": "books/Chemistry-9.pdf",
+    "lang": "eng",
+    "pages": 258,
+    "renderMsPerPage": 273,
+    "ocrMsPerPage": 2499,
+    "avgConf": 93,
+    "avgCharsPerPage": 1445,
+    "quality": "GOOD"
+  },
+  {
+    "file": "books/Biology-9.pdf",
+    "lang": "eng",
+    "pages": 168,
+    "renderMsPerPage": 269,
+    "ocrMsPerPage": 2658,
+    "avgConf": 91,
+    "avgCharsPerPage": 1526,
+    "quality": "GOOD"
+  },
+  {
+    "file": "books/Physics-9.pdf",
+    "lang": "eng",
+    "pages": 221,
+    "renderMsPerPage": 352,
+    "ocrMsPerPage": 2884,
+    "avgConf": 92,
+    "avgCharsPerPage": 1946,
+    "quality": "GOOD"
+  },
+  {
+    "file": "books/Mathematics-9.pdf",
+    "lang": "eng",
+    "pages": 296,
+    "renderMsPerPage": 188,
+    "ocrMsPerPage": 3005,
+    "avgConf": 82,
+    "avgCharsPerPage": 1650,
+    "quality": "GOOD"
+  },
+  {
+    "file": "books/English-9.pdf",
+    "lang": "eng",
+    "pages": 168,
+    "renderMsPerPage": 489,
+    "ocrMsPerPage": 3432,
+    "avgConf": 92,
+    "avgCharsPerPage": 2117,
+    "quality": "GOOD"
+  },
+  {
+    "file": "books/Islamiat-9.pdf",
+    "lang": "eng",
+    "pages": 116,
+    "renderMsPerPage": 408,
+    "ocrMsPerPage": 3267,
+    "avgConf": 25,
+    "avgCharsPerPage": 831,
+    "quality": "POOR"
+  },
+  {
+    "file": "books/Mutalia Quran-9.pdf",
+    "lang": "ara",
+    "pages": 257,
+    "renderMsPerPage": 672,
+    "ocrMsPerPage": 2532,
+    "avgConf": 61,
+    "avgCharsPerPage": 717,
+    "quality": "MARGINAL"
+  },
+  {
+    "file": "books/Urdu-9.pdf",
+    "lang": "urd",
+    "pages": 130,
+    "renderMsPerPage": 426,
+    "ocrMsPerPage": 1724,
+    "avgConf": 40,
+    "avgCharsPerPage": 1128,
+    "quality": "POOR"
+  }
+]

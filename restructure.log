@@ -1,0 +1,48 @@
+[09:11:44] Selected 8 PDF(s). worker concurrency=3
+[09:11:44] 
+--- language group "eng": 5 book(s), 3 worker(s) ---
+[09:11:48] Biology-9.pdf: restructuring from 168 cached page(s) - no OCR
+[09:11:48] Biology-9.pdf: 168 pages, meanConf=92, 10 chapters, 128 topics, 4 SLOs, 4 printed questions in 0.0min
+[09:11:49] Chemistry-9.pdf: restructuring from 258 cached page(s) - no OCR
+[09:11:49] Chemistry-9.pdf: 258 pages, meanConf=89, 19 chapters, 214 topics, 19 SLOs, 80 printed questions in 0.0min
+[09:11:49] English-9.pdf: restructuring from 168 cached page(s) - no OCR
+[09:11:49] English-9.pdf: 168 pages, meanConf=90, 1 chapters, 2 topics, 12 SLOs, 17 printed questions in 0.0min
+[09:11:49] Mathematics-9.pdf: restructuring from 296 cached page(s) - no OCR
+[09:11:49] Mathematics-9.pdf: 296 pages, meanConf=79, 11 chapters, 95 topics, 0 SLOs, 67 printed questions in 0.0min
+[09:11:49] Physics-9.pdf: restructuring from 221 cached page(s) - no OCR
+[09:11:50] Physics-9.pdf: 221 pages, meanConf=90, 1 chapters, 326 topics, 6 SLOs, 0 printed questions in 0.0min
+[09:11:50] 
+--- language group "urd": 2 book(s), 2 worker(s) ---
+[09:11:51] Islamiat-9.pdf: restructuring from 116 cached page(s) - no OCR
+[09:11:51] Islamiat-9.pdf: 116 pages, meanConf=44, 1 chapters, 2 topics, 0 SLOs, 0 printed questions in 0.0min
+[09:11:51] Urdu-9.pdf: restructuring from 130 cached page(s) - no OCR
+[09:11:51] Urdu-9.pdf: 130 pages, meanConf=44, 1 chapters, 1 topics, 0 SLOs, 0 printed questions in 0.0min
+[09:11:51] 
+--- language group "ara": 1 book(s), 1 worker(s) ---
+[09:11:52] Mutalia Quran-9.pdf: restructuring from 257 cached page(s) - no OCR
+[09:11:52] Mutalia Quran-9.pdf: 257 pages, meanConf=51, 1 chapters, 1 topics, 0 SLOs, 0 printed questions in 0.0min
+[09:11:52] Building retrieval indexes...
+[09:11:52]   biology-9: 163 chunks
+[09:11:52]   chemistry-9: 253 chunks
+[09:11:52]   english-9: 163 chunks
+[09:11:52]   mathematics-9: 281 chunks
+[09:11:52]   physics-9: 219 chunks
+[09:11:52]   islamiat-9: 108 chunks
+[09:11:52]   urdu-9: 102 chunks
+[09:11:52]   mutalia-quran-9: 215 chunks
+[09:11:52] 
+[09:11:52] ================ INGEST SUMMARY ================
+[09:11:52] books indexed : 8
+[09:11:52] total pages   : 1614
+[09:11:52] total chapters: 45
+[09:11:52] total topics  : 769
+[09:11:52]   OK  Biology          grade 9    168pg conf= 92 ch=10
+[09:11:52]   OK  Chemistry        grade 9    258pg conf= 89 ch=19
+[09:11:52]   OK  English          grade 9    168pg conf= 90 ch=1
+[09:11:52]   LOW Islamiat         grade 9    116pg conf= 44 ch=1
+[09:11:52]   OK  Mathematics      grade 9    296pg conf= 79 ch=11
+[09:11:52]   LOW Mutalia Quran    grade 9    257pg conf= 51 ch=1
+[09:11:52]   OK  Physics          grade 9    221pg conf= 90 ch=1
+[09:11:52]   LOW Urdu             grade 9    130pg conf= 44 ch=1
+[09:11:52] ==============================================
+[09:11:52] Wrote data\books.json

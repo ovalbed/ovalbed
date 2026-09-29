@@ -1,0 +1,77 @@
+﻿FILE | PAGES | MB | TEXT_PAGES | AVG_CHARS | VERDICT | PDF_TITLE | PDF_PRODUCER
+------------------------------------------------------------------------------------------------------------------------
+Biology-9.pdf | 168 | 83.7 | 0/12 | 0 | SCANNED_NEEDS_OCR | 9th Biology Federal Board.pd | Microsoft: Print To PD
+Chemistry-9.pdf | 258 | 73.8 | 0/12 | 55 | SPARSE | - | PDF24
+English-9.pdf | 168 | 35 | 0/12 | 34 | SPARSE | F:\books\federal-board\9th\2 | iLovePDF
+Islamiat-9.pdf | 116 | 16.6 | 0/12 | 31 | SPARSE | F:\books\federal-board\9th\2 | GPL Ghostscript 10.02.
+Mathematics-9.pdf | 296 | 72.9 | 0/12 | 46 | SPARSE | CamScanner 10-08-2024 22.22 | intsig.com pdf produce
+Mutalia Quran-9.pdf | 257 | 47.9 | 0/12 | 0 | SCANNED_NEEDS_OCR |  | PDFsharp 1.32.2608-g (
+Physics-9.pdf | 221 | 71.4 | 0/12 | 31 | SPARSE | - | GPL Ghostscript 10.02.
+Urdu-9.pdf | 130 | 23.8 | 0/12 | 34 | SPARSE | F:\books\federal-board\9th\2 | iLovePDF
+
+
+########## SAMPLE PREVIEWS ##########
+
+===== Biology-9.pdf (SCANNED_NEEDS_OCR, 168 pages) =====
+  p1 (0c): 
+  p16 (0c): 
+  p31 (0c): 
+  p46 (0c): 
+  p61 (0c): 
+  p76 (0c): 
+
+===== Chemistry-9.pdf (SPARSE, 258 pages) =====
+  p1 (55c): studyplusplus.com (study++) studyplusplus.com (study++)
+  p24 (55c): studyplusplus.com (study++) studyplusplus.com (study++)
+  p47 (55c): studyplusplus.com (study++) studyplusplus.com (study++)
+  p71 (55c): studyplusplus.com (study++) studyplusplus.com (study++)
+  p94 (55c): studyplusplus.com (study++) studyplusplus.com (study++)
+  p117 (55c): studyplusplus.com (study++) studyplusplus.com (study++)
+
+===== English-9.pdf (SPARSE, 168 pages) =====
+  p1 (34c): studyplusplus || studyplusplus.com
+  p16 (34c): studyplusplus || studyplusplus.com
+  p31 (34c): studyplusplus || studyplusplus.com
+  p46 (34c): studyplusplus || studyplusplus.com
+  p61 (34c): studyplusplus || studyplusplus.com
+  p76 (34c): studyplusplus || studyplusplus.com
+
+===== Islamiat-9.pdf (SPARSE, 116 pages) =====
+  p1 (31c): studyplusplus || studyplulsplus
+  p11 (31c): studyplusplus || studyplulsplus
+  p21 (31c): studyplusplus || studyplulsplus
+  p32 (31c): studyplusplus || studyplulsplus
+  p42 (31c): studyplusplus || studyplulsplus
+  p53 (31c): studyplusplus || studyplulsplus
+
+===== Mathematics-9.pdf (SPARSE, 296 pages) =====
+  p1 (33c): https://fbisesolvedpastpapers.com
+  p27 (33c): https://fbisesolvedpastpapers.com
+  p54 (33c): https://fbisesolvedpastpapers.com
+  p81 (33c): https://fbisesolvedpastpapers.com
+  p108 (33c): https://fbisesolvedpastpapers.com
+  p135 (58c): FBISE SOLVED PAST PAPERS https://fbisesolvedpastpapers.com
+
+===== Mutalia Quran-9.pdf (SCANNED_NEEDS_OCR, 257 pages) =====
+  p1 (0c): 
+  p24 (0c): 
+  p47 (0c): 
+  p70 (0c): 
+  p94 (0c): 
+  p117 (0c): 
+
+===== Physics-9.pdf (SPARSE, 221 pages) =====
+  p1 (31c): studyplusplus || studyplulsplus
+  p21 (31c): studyplusplus || studyplulsplus
+  p41 (31c): studyplusplus || studyplulsplus
+  p61 (31c): studyplusplus || studyplulsplus
+  p81 (31c): studyplusplus || studyplulsplus
+  p101 (31c): studyplusplus || studyplulsplus
+
+===== Urdu-9.pdf (SPARSE, 130 pages) =====
+  p1 (34c): studyplusplus || studyplusplus.com
+  p12 (34c): studyplusplus || studyplusplus.com
+  p24 (34c): studyplusplus || studyplusplus.com
+  p36 (34c): studyplusplus || studyplusplus.com
+  p47 (34c): studyplusplus || studyplusplus.com
+  p59 (34c): studyplusplus || studyplusplus.com

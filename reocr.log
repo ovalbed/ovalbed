@@ -1,0 +1,27 @@
+[09:17:20] --only physics-9: 1/8 PDF(s) selected
+[09:17:20] Selected 1 PDF(s). worker concurrency=3
+[09:17:20] 
+--- language group "eng": 1 book(s), 1 worker(s) ---
+[09:17:23] Physics-9.pdf: new or changed - extracting (language=eng)
+[09:17:23]   Physics-9.pdf: resuming, 219/221 page(s) already OCR'd
+[09:17:25]   Physics-9.pdf 220/221 conf=38 rate=0.01s/pg eta=0.0min
+[09:17:26]   Physics-9.pdf 221/221 conf=95 rate=0.01s/pg eta=0.0min
+[09:17:26] Physics-9.pdf: 221 pages, meanConf=90, 1 chapters, 326 topics, 6 SLOs, 0 printed questions in 0.0min
+[09:17:26] Building retrieval indexes...
+[09:17:26]   physics-9: 219 chunks
+[09:17:26] 
+[09:17:26] ================ INGEST SUMMARY ================
+[09:17:26] books indexed : 8
+[09:17:26] total pages   : 1614
+[09:17:26] total chapters: 45
+[09:17:26] total topics  : 769
+[09:17:26]   OK  Biology          grade 9    168pg conf= 92 ch=10
+[09:17:26]   OK  Chemistry        grade 9    258pg conf= 89 ch=19
+[09:17:26]   OK  English          grade 9    168pg conf= 90 ch=1
+[09:17:26]   LOW Islamiat         grade 9    116pg conf= 44 ch=1
+[09:17:26]   OK  Mathematics      grade 9    296pg conf= 79 ch=11
+[09:17:26]   LOW Mutalia Quran    grade 9    257pg conf= 51 ch=1
+[09:17:26]   OK  Physics          grade 9    221pg conf= 90 ch=1
+[09:17:26]   LOW Urdu             grade 9    130pg conf= 44 ch=1
+[09:17:26] ==============================================
+[09:17:26] Wrote data\books.json

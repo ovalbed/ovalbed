@@ -1,0 +1,44 @@
+[07:03:40] --only mutalia-quran-9: 1/8 PDF(s) selected
+[07:03:40] Selected 1 PDF(s). worker concurrency=3
+[07:03:40] 
+--- language group "ara": 1 book(s), 1 worker(s) ---
+[07:03:43] Mutalia Quran-9.pdf: new or changed - extracting (language=ara)
+[07:03:44]   Mutalia Quran-9.pdf: resuming, 74/257 page(s) already OCR'd
+[07:04:18]   Mutalia Quran-9.pdf 80/257 conf=47 rate=0.44s/pg eta=1.3min
+[07:05:05]   Mutalia Quran-9.pdf 90/257 conf=87 rate=0.91s/pg eta=2.5min
+[07:05:52]   Mutalia Quran-9.pdf 100/257 conf=76 rate=1.28s/pg eta=3.4min
+[07:06:36]   Mutalia Quran-9.pdf 110/257 conf=45 rate=1.57s/pg eta=3.9min
+[07:07:23]   Mutalia Quran-9.pdf 120/257 conf=87 rate=1.83s/pg eta=4.2min
+[07:08:14]   Mutalia Quran-9.pdf 130/257 conf=54 rate=2.08s/pg eta=4.4min
+[07:08:59]   Mutalia Quran-9.pdf 140/257 conf=48 rate=2.26s/pg eta=4.4min
+[07:10:01]   Mutalia Quran-9.pdf 150/257 conf=38 rate=2.52s/pg eta=4.5min
+[07:10:46]   Mutalia Quran-9.pdf 160/257 conf=89 rate=2.64s/pg eta=4.3min
+[07:11:23]   Mutalia Quran-9.pdf 170/257 conf=86 rate=2.70s/pg eta=3.9min
+[07:11:57]   Mutalia Quran-9.pdf 180/257 conf=85 rate=2.74s/pg eta=3.5min
+[07:12:34]   Mutalia Quran-9.pdf 190/257 conf=85 rate=2.79s/pg eta=3.1min
+[07:13:12]   Mutalia Quran-9.pdf 200/257 conf=87 rate=2.84s/pg eta=2.7min
+[07:14:01]   Mutalia Quran-9.pdf 210/257 conf=44 rate=2.94s/pg eta=2.3min
+[07:14:45]   Mutalia Quran-9.pdf 220/257 conf=49 rate=3.01s/pg eta=1.9min
+[07:15:31]   Mutalia Quran-9.pdf 230/257 conf=87 rate=3.08s/pg eta=1.4min
+[07:16:18]   Mutalia Quran-9.pdf 240/257 conf=41 rate=3.15s/pg eta=0.9min
+[07:16:54]   Mutalia Quran-9.pdf 250/257 conf=37 rate=3.16s/pg eta=0.4min
+[07:17:13]   Mutalia Quran-9.pdf 257/257 conf=29 rate=3.15s/pg eta=0.0min
+[07:17:13] Mutalia Quran-9.pdf: 257 pages, meanConf=51, 1 chapters, 1 topics, 0 SLOs, 0 printed questions in 13.5min
+[07:17:13] Building retrieval indexes...
+[07:17:13]   mutalia-quran-9: 215 chunks
+[07:17:13] 
+[07:17:13] ================ INGEST SUMMARY ================
+[07:17:13] books indexed : 8
+[07:17:13] total pages   : 473
+[07:17:13] total chapters: 51
+[07:17:13] total topics  : 150
+[07:17:13]   OK  Biology          grade 9    168pg conf= 92 ch=10
+[07:17:13]   OK  Chemistry        grade 9     18pg conf= 92 ch=19
+[07:17:13]   OK  English          grade 9      6pg conf= 90 ch=1
+[07:17:13]   LOW Islamiat         grade 9      6pg conf= 40 ch=8
+[07:17:13]   OK  Mathematics      grade 9      6pg conf= 84 ch=10
+[07:17:13]   LOW Mutalia Quran    grade 9    257pg conf= 51 ch=1
+[07:17:13]   OK  Physics          grade 9      6pg conf= 82 ch=1
+[07:17:13]   LOW Urdu             grade 9      6pg conf= 30 ch=1
+[07:17:13] ==============================================
+[07:17:13] Wrote data\books.json

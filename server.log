@@ -1,0 +1,8 @@
+◇ injected env (3) from .env // tip: ⌘ override existing { override: true }
+
+  Grade 9 Smart Study API
+  http://localhost:8787
+  8 book(s) indexed, 109 question(s) stored
+  AI ready: opencode-zen
+
+  ollama at http://localhost:11434: not running

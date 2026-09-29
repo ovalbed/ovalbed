@@ -1,0 +1,11 @@
+[07:00:53] Selected 8 PDF(s). worker concurrency=3
+[07:00:53] 
+--- language group "eng": 5 book(s), 3 worker(s) ---
+[07:01:00] Biology-9.pdf: new or changed - extracting (language=eng)
+[07:01:19]   Biology-9.pdf 10/168 conf=94 rate=1.78s/pg eta=4.7min
+[07:01:30]   Biology-9.pdf 20/168 conf=91 rate=1.46s/pg eta=3.6min
+[07:01:55]   Biology-9.pdf 30/168 conf=92 rate=1.81s/pg eta=4.2min
+[07:02:11]   Biology-9.pdf 40/168 conf=95 rate=1.75s/pg eta=3.7min
+[07:02:21]   Biology-9.pdf 50/168 conf=94 rate=1.61s/pg eta=3.2min
+[07:02:33]   Biology-9.pdf 60/168 conf=93 rate=1.53s/pg eta=2.7min
+[07:02:43]   Biology-9.pdf 70/168 conf=94 rate=1.45s/pg eta=2.4min

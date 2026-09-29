@@ -1,0 +1,55 @@
+{
+  "name": "grade9-smart-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Textbook-grounded AI study engine for Grade 9 (and beyond) books",
+  "scripts": {
+    "ingest-books": "tsx scripts/ingest-books.ts",
+    "dev:backend": "tsx watch backend/server.ts",
+    "dev:frontend": "vite",
+    "dev": "concurrently -n backend,frontend -c cyan,magenta \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "build": "npm run build:frontend",
+    "build:frontend": "vite build",
+    "preview": "vite preview",
+    "start": "tsx backend/server.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.9",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "katex": "^0.18.9",
+    "mupdf": "^1.28.1",
+    "pdfjs-dist": "^5.4.149",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tesseract.js": "^7.0.0",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^5.1.1",
+    "concurrently": "^9.2.1",
+    "fake-indexeddb": "^6.2.2",
+    "jsdom": "^28.0.1",
+    "tsx": "^4.20.7",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.4",
+    "vitest": "^3.2.4"
+  },
+  "allowScripts": {
+    "esbuild": true
+  }
+}

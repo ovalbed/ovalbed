@@ -1,0 +1,35 @@
+[07:19:40] --only biology-9: 1/8 PDF(s) selected
+[07:19:40] Selected 1 PDF(s). worker concurrency=3
+[07:19:40] 
+--- language group "eng": 1 book(s), 1 worker(s) ---
+[07:19:42] Biology-9.pdf: new or changed - extracting (language=eng)
+[07:19:43]   Biology-9.pdf: resuming, 75/168 page(s) already OCR'd
+[07:20:01]   Biology-9.pdf 80/168 conf=90 rate=0.23s/pg eta=0.3min
+[07:20:41]   Biology-9.pdf 90/168 conf=90 rate=0.64s/pg eta=0.8min
+[07:21:18]   Biology-9.pdf 100/168 conf=89 rate=0.95s/pg eta=1.1min
+[07:21:50]   Biology-9.pdf 110/168 conf=89 rate=1.15s/pg eta=1.1min
+[07:22:26]   Biology-9.pdf 120/168 conf=93 rate=1.36s/pg eta=1.1min
+[07:23:02]   Biology-9.pdf 130/168 conf=93 rate=1.53s/pg eta=1.0min
+[07:23:45]   Biology-9.pdf 140/168 conf=93 rate=1.73s/pg eta=0.8min
+[07:24:16]   Biology-9.pdf 150/168 conf=93 rate=1.82s/pg eta=0.5min
+[07:24:54]   Biology-9.pdf 160/168 conf=94 rate=1.94s/pg eta=0.3min
+[07:25:45]   Biology-9.pdf 168/168 conf=94 rate=2.16s/pg eta=0.0min
+[07:25:45] Biology-9.pdf: 168 pages, meanConf=92, 10 chapters, 128 topics, 4 SLOs, 9 printed questions in 6.0min
+[07:25:45] Building retrieval indexes...
+[07:25:45]   biology-9: 163 chunks
+[07:25:45] 
+[07:25:45] ================ INGEST SUMMARY ================
+[07:25:45] books indexed : 8
+[07:25:45] total pages   : 473
+[07:25:45] total chapters: 51
+[07:25:45] total topics  : 150
+[07:25:45]   OK  Biology          grade 9    168pg conf= 92 ch=10
+[07:25:45]   OK  Chemistry        grade 9     18pg conf= 92 ch=19
+[07:25:45]   OK  English          grade 9      6pg conf= 90 ch=1
+[07:25:45]   LOW Islamiat         grade 9      6pg conf= 40 ch=8
+[07:25:45]   OK  Mathematics      grade 9      6pg conf= 84 ch=10
+[07:25:45]   LOW Mutalia Quran    grade 9    257pg conf= 51 ch=1
+[07:25:45]   OK  Physics          grade 9      6pg conf= 82 ch=1
+[07:25:45]   LOW Urdu             grade 9      6pg conf= 30 ch=1
+[07:25:45] ==============================================
+[07:25:45] Wrote data\books.json
